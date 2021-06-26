@@ -7,5 +7,5 @@ export function div(a,b) {
 }
 
 export function add(x,b,c,d){
-    return a+b+c+d;
+    return x+b+c+d;
 }

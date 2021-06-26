@@ -15,7 +15,7 @@ console.log(usernames);
 console.log(newarr);
 
 const editarray = newarr.map((val) => {
-    if (val.startsWith('Dr')) {
+    if (val.startsWith('rD')) {
         return `${val}-San`;
     }
     else {
